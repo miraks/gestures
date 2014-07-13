@@ -1,0 +1,15 @@
+{
+  "name": "gestures",
+  "main": "./lib/gestures",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Control atom with mouse gestures",
+  "repository": "https://github.com/miraks/gestures",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "underscore-plus": "1.x"
+  }
+}
